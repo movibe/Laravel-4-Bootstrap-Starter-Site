@@ -123,6 +123,7 @@ return array(
 				        /* Uncomment for use in development */
 				       'Dollar\Generators\GeneratorsServiceProvider', // Generators
 				       'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider', // IDE Helpers
+				       'Barryvdh\Debugbar\ServiceProvider', // Debugbar
 
        ),
 
